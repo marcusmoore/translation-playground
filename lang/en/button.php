@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'button_new' => 'something',
     'actions' 	                => 'Actions',
     'add'    	                => 'Add New',
     'cancel'                    => 'Cancel',
