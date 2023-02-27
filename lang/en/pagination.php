@@ -16,4 +16,5 @@ return [
     'previous' => '&laquo; Previous',
     'next' => 'Next &raquo;',
 
+    'something_new' => 'here',
 ];
