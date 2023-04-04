@@ -4,6 +4,6 @@
   {
     "source" : "/lang/en/**/*.php",
     # https://developer.crowdin.com/configuration-file/#placeholders
-    "translation" : "/lang/%locale%/%original_file_name%"
+    "translation" : "/lang/%locale%/**/%original_file_name%"
   }
 ]
