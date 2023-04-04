@@ -3,6 +3,6 @@
 "files": [
   {
     "source" : "/lang/en/**/*.php",
-    "translation" : "/lang/%locale%/%original_file_name%"
+    "translation" : "/lang/%locale%/**/%original_file_name%"
   }
 ]
